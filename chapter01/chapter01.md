@@ -16,7 +16,7 @@
 ### 최종 제출 URL
 
 ```text
-여기에 개인 GitHub 저장소의 chapter01/chapter01.md 파일 URL을 입력하세요.
+https://github.com/kwonhyeoksoo/llm-data-analysis-study/blob/main/chapter01/chapter01.md
 ```
 
 ---
